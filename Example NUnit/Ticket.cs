@@ -8,8 +8,8 @@ namespace EjemploNUnit
 {
     class Ticket
     {
-        public string nombrePelicula { set; get;}
-        public bool estreno { set; get; }
-        public int costo { set; get; }
+        public string NameMovie { set; get;}
+        public bool Premiere { set; get; }
+        public int Price { set; get; }
     }
 }
